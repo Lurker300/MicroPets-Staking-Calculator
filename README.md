@@ -13,3 +13,5 @@ Step 3: Add current coin price in the "$Pets Current Toen Price" block to see th
 
 
 If you have any questions, concerns or suggestions please reach out to Lurker300 on MicroPETS official Discord or Telegram.
+
+** Link to this sheet on googledrive: https://docs.google.com/spreadsheets/d/1iTLmi6srflG1AmVeSNrTIZ45s1hYrjVSkAKYrVUdT7o/edit?usp=sharing
