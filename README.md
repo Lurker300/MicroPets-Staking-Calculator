@@ -6,7 +6,9 @@ Accept to make editable on Excel so you may fill out form.
 ONCE OPEN:
 
 Step 1: Add the Current APY % for each NFT type on Column 1. There is a Multiplier column you can match with site.
+
 Step 2: Enter the number of each NFT type you have
+
 Step 3: Add current coin price in the "$Pets Current Toen Price" block to see the rewards in USD below.
 
 
